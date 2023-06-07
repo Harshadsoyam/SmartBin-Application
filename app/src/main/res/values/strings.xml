@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">digitalSmartbin</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="don_t_pay_the_price_keep_our_city_nice">Don\'t pay the price, keep our city nice</string>
+    <string name="welcome_to_smart_bin">Welcome to Smart bin</string>
+    <string name="logout">Logout</string>
+    <string name="home_page">Home Page</string>
+    <string name="bin_data">Bin Data</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="googleApi">AIzaSyAC4jXitkNxHGsbi2_at1jrFPw6wYpXJ2w</string>
+</resources>
